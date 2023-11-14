@@ -36,8 +36,6 @@ interfaces Datasheet - production data Features
 ```
 DEVELOPED BY: SHANMUGAVEL.RM
 REGISTER.NO: 212222230142
-```
-```
 #include "main.h"
 #include "stdio.h"
 #include "stdbool.h"
